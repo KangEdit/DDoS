@@ -1,7 +1,7 @@
 Tool ini merupakan tools yang dibuat oleh beberapa anggota MuslimCyberArmy (MCA).
 
 
-Cara instalasi & menjaankan tool :
+**Install tool :**
 
 $pkg update -y && pkg upgrade -y
 
@@ -12,6 +12,8 @@ $pkg install python2 -y
 $pip2 install mechnize
 
 $git clone https://github.com/KangEdit/DDoS
+
+**Menjalankan tool :**
 
 $cd DDoS
 
