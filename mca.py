@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # coding: UTF-8
-# created    : Tegar ID
+# created    : Tegar Dll
 # time       : 08:10
 # date       : 29 November 2020
 # file name  : MCA.py
